@@ -1,0 +1,15 @@
+venv/
+venv_new/
+__pycache__/
+*.pyc
+
+.env
+
+data/raw/*
+data/processed/*
+data/rejected/*
+
+logs/*.log
+
+.pytest_cache/
+.streamlit/secrets.toml
